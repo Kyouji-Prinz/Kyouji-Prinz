@@ -5,9 +5,9 @@
 <div align="center">
 
   [![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-0a0a0a?style=for-the-badge&logoColor=white)](https://kyouji-prinz.github.io/Porto-Arta/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udi-adhahaska-arta-ananta-64790a312/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arta-ananta)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udiadhahaskaananta@gmail.com)
-  [![Profile Views](https://komarev.com/ghpvc/?username=Kyouji-Prinz&color=4364F7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Kyouji-Prinz)
+  [![Profile Views](https://hits.sh/github.com/Kyouji-Prinz.svg?style=for-the-badge&label=PROFILE+VIEWS&color=4364f7)](https://github.com/Kyouji-Prinz)
 
 </div>
 
